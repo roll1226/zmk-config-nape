@@ -108,7 +108,7 @@
 
         orientation0_layer {
             bindings = <
-&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &mo 1  &mo 0  &mo 11
+&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &to 1  &to 6  &to 11
             >;
         };
 
@@ -116,7 +116,7 @@
 
         orientation45_layer {
             bindings = <
-&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &mo 2  &mo 9  &mo 0
+&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &to 2  &to 6  &to 0
             >;
         };
 
@@ -124,7 +124,7 @@
 
         orientation90_layer {
             bindings = <
-&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &mo 3  &mo 9  &mo 1
+&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &to 3  &to 6  &to 1
             >;
         };
 
@@ -132,7 +132,7 @@
 
         orientation135_layer {
             bindings = <
-&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &mo 4  &mo 9  &mo 2
+&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &to 4  &to 6  &to 2
             >;
         };
 
@@ -140,7 +140,7 @@
 
         orientation180_layer {
             bindings = <
-&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &mo 5  &mo 9  &mo 3
+&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &to 5  &to 6  &to 3
             >;
         };
 
@@ -148,7 +148,7 @@
 
         orientation225_layer {
             bindings = <
-&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &mo 6  &mo 9  &mo 4
+&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &to 6  &to 6  &to 4
             >;
         };
 
@@ -156,7 +156,7 @@
 
         orientation270_layer {
             bindings = <
-&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &mo 7  &mo 9  &mo 5
+&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &to 7  &to 6  &to 5
             >;
         };
 
@@ -164,7 +164,7 @@
 
         orientation315_layer {
             bindings = <
-&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &mo 8  &mo 9  &mo 6
+&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &to 8  &to 6  &to 6
             >;
         };
 
@@ -172,7 +172,7 @@
 
         btsel_layer {
             bindings = <
-&bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &trans  &bt BT_SEL 3  &bt BT_SEL 4
+&bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &to 6  &bt BT_SEL 3  &bt BT_SEL 4
             >;
         };
 
