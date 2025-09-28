@@ -108,7 +108,7 @@
 
         orientation0_layer {
             bindings = <
-&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &to 1  &to 6  &to 11
+&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &to 1  &to 2  &to 11
             >;
         };
 
@@ -116,7 +116,7 @@
 
         orientation45_layer {
             bindings = <
-&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &to 2  &to 6  &to 0
+&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &to 2  &to 2  &to 0
             >;
         };
 
@@ -124,7 +124,7 @@
 
         orientation90_layer {
             bindings = <
-&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &to 3  &to 6  &to 1
+&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &to 3  &to 2  &to 1
             >;
         };
 
@@ -132,7 +132,7 @@
 
         orientation135_layer {
             bindings = <
-&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &to 4  &to 6  &to 2
+&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &to 4  &to 2  &to 2
             >;
         };
 
@@ -140,7 +140,7 @@
 
         orientation180_layer {
             bindings = <
-&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &to 5  &to 6  &to 3
+&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &to 5  &to 2  &to 3
             >;
         };
 
@@ -148,7 +148,7 @@
 
         orientation225_layer {
             bindings = <
-&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &to 6  &to 6  &to 4
+&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &to 6  &to 2  &to 4
             >;
         };
 
@@ -156,7 +156,7 @@
 
         orientation270_layer {
             bindings = <
-&lt_mkp 10 MB3  &mkp MB1  &mkp MB2  &to 7  &to 6  &to 5
+&lt_mkp 10 MB3  &mkp MB1  &mkp MB2  &to 7  &to 2  &to 5
             >;
         };
 
@@ -164,7 +164,7 @@
 
         orientation315_layer {
             bindings = <
-&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &to 8  &to 6  &to 6
+&lt_mkp 10 MB3  &mkp MB2  &mkp MB1  &to 8  &to 2  &to 6
             >;
         };
 
